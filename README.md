@@ -64,6 +64,9 @@ Front-end app will be started on http://localhost:3000
 |:-----------|:---------|:-----------------------------------------|
 | `fileName` | `string` | **Optional**. file name of item to fetch |
 
+### Postman Collection
+[TBcodechallenge.postman_collection.json.zip](https://github.com/epirir/tboxcodechallenge/files/10025042/TBcodechallenge.postman_collection.json.zip)
+
 
 ## Screenshots
 
