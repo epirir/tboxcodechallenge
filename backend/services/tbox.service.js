@@ -20,8 +20,6 @@ async function getData(filters) {
 
 async function getFiles() {
   try {
-    const config = { headers: { Authorization: "Bearer aSuperSecretKey" } };
-
     const response = await axios.get(
       "https://echo-serv.tbxnet.com/v1/secret/files"
     );
